@@ -1,0 +1,64 @@
+CAMBRIDGE IGCSE FIRST LANGUAGE ENGLISH 0500
+PROGRESS REPORT
+==================================================
+
+Date: 14/11/2025, 11:26:18 pm
+
+Level: 4
+XP: 350
+Streak: 0 days
+Badges: 2/10
+Overall Mastery: 29%
+
+==================================================
+PAPER 1: READING
+==================================================
+
+Reading Comprehension (Q1a-e)
+  Mastery: 0%
+  Questions: 0/4
+  Status: NOT STARTED
+
+Summary Writing (Q1f)
+  Mastery: 100%
+  Questions: 2/2
+  Status: MASTERED
+
+Language Analysis (Q2d)
+  Mastery: 100%
+  Questions: 3/3
+  Status: MASTERED
+
+Extended Response (Q3)
+  Mastery: 0%
+  Questions: 0/4
+  Status: NOT STARTED
+
+==================================================
+PAPER 2: WRITING
+==================================================
+
+Directed Writing (Section A)
+  Mastery: 0%
+  Questions: 0/3
+  Status: NOT STARTED
+
+Descriptive Writing (Section B)
+  Mastery: 0%
+  Questions: 0/3
+  Status: NOT STARTED
+
+Narrative Writing (Section B)
+  Mastery: 0%
+  Questions: 0/3
+  Status: NOT STARTED
+
+==================================================
+BADGES EARNED
+==================================================
+
+🎯 First Steps - Complete first question
+💯 Perfectionist - Score 100% on any topic
+
+==================================================
+END OF REPORT
